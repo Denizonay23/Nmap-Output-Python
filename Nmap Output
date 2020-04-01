@@ -1,0 +1,5 @@
+import os
+os.system("nmap linkedln.com -oX mett1.xml")
+os.system("nmap snapchat.com -oX mett2.xml")
+os.system("nmap instagram.com -oX mett3.xml")
+os.system("nmap facebook.com -oX mett4.xml")
